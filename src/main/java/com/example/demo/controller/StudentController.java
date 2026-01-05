@@ -12,20 +12,6 @@ import com.example.demo.service.StudentService;
 public class StudentController {
 	
 	
-	/**
-	 * Post---create
-	 * Get----read
-	 * Put----update
-	 * Delete---delete
-	 * 
-	 * CRUD----
-	 * 
-	 * 
-	 * 
-	 * 
-	 */
-	
-	//StudentService stuService = new StudentService();
 	
 	@Autowired
 	StudentService stuService;
